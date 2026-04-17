@@ -2,11 +2,11 @@
 
 This is an end-to-end data project using NYC Yellow Taxi (TLC) trip record data for 2025, leveraging Fabric's Data Warehousing, Data Factory, Data Engineering, and Power BI experiences.
 
-**_Please refer to the Wiki for the code used in the data pipelines, stored procedures, variables and parameters._**
+**_Please refer to the [Wiki](https://github.com/Elvi3n/Fabric-Analytic-Pipeline-NYC-Taxi-Project/tree/main/Wiki) for the code used in the data pipelines, stored procedures, variables and parameters._**
 
 ## Project Overview
 
-This project delivers a fully automated analytics pipeline built on Microsoft Fabric, processing New York City Yellow Taxi (TLC) trip record data for 2025. The solution covers the full data lifecycle — from raw file ingestion through to an interactive Power BI report. The project demonstrates real-world data engineering practices including dynamic pipeline automation, metadata logging, data quality enforcement, and multi-layer warehouse architecture.
+This project delivers a fully automated analytics pipeline built on Microsoft Fabric, processing **~18 million** New York City Yellow Taxi (TLC) trip records from July to Dec 2025. The solution covers the full data lifecycle — from raw file ingestion through to an interactive Power BI report. The project demonstrates real-world data engineering practices including dynamic pipeline automation, metadata logging, data quality enforcement, and multi-layer warehouse architecture.
 
 ### Objectives
 
@@ -84,5 +84,10 @@ NYCTaxiDataProject/
 ---
 ### Repo Structure
 ```
-
+NYC Yellow Taxi Analytics Pipeline
+├── Raw data/                 # Taxi zone lookup CSV
+├── Wiki/                     # Documentation of code used in data pipelines, stored procedures, variables and parameters.
+├── LICENSE                   # Project licensing information
+├── NYC Yellow Taxi Report.pbix # Final Power BI report file
+└── README.md                 
 ```
