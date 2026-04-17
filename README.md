@@ -2,7 +2,7 @@
 
 This is an end-to-end data project using NYC Yellow Taxi (TLC) trip record data for 2025, leveraging Fabric's Data Warehousing, Data Factory, Data Engineering, and Power BI experiences.
 
-Please refer to the Wiki for the code used in the data pipelines, stored procedures, variables and parameters.
+**_Please refer to the Wiki for the code used in the data pipelines, stored procedures, variables and parameters._**
 
 ## Project Overview
 
