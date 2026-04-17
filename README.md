@@ -79,6 +79,7 @@ NYCTaxiDataProject/
 │
 └── NYC Taxi Executive Dashboard/      # Power BI Report
 ```
+<img width="700" height="323" alt="image" src="https://github.com/user-attachments/assets/9d6cef9e-214c-41c9-a14b-dffcce52e8e9" />
 
 ---
 ### Repo Structure
