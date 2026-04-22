@@ -51,7 +51,7 @@ Built from a blank canvas connected to the ProjectWarehouse default semantic mod
 
 ---
 
-## Fabric Project Structure
+## Fabric Workspace Structure
 ```
 NYCTaxiDataProject/
 │
