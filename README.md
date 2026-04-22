@@ -19,7 +19,7 @@ This project delivers a fully automated analytics pipeline built on Microsoft Fa
 
 ### Data Sources
 
-Data sourced from the [NYC Taxi & Limousine Commission (TLC)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page). The monthly Yellow Taxi Trip Records (July–Dec 2025) include pickup/dropoff datetime, location IDs, passenger count, distance, payment type, and fare amount. The Taxi Zone Lookup Table (CSV) include maps location IDs to borough, zone, and service zone.
+Data is sourced from the [NYC Taxi & Limousine Commission (TLC)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page). The monthly Yellow Taxi Trip Records (July–Dec 2025) include pickup/dropoff datetime, location IDs, passenger count, distance, payment type, and fare amount. The Taxi Zone Lookup Table (CSV) include maps location IDs to borough, zone, and service zone.
 
 ---
 
